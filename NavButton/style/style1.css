@@ -1,4 +1,4 @@
-nav-buttun li{
+nav-button li{
     display: flex;
     justify-content: space-between;
     list-style: none;
@@ -6,6 +6,6 @@ nav-buttun li{
     margin: 5px;
 
   }
-  nav-buttun a{
+  nav-button a{
     cursor:none;
   }
