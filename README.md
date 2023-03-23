@@ -29,7 +29,7 @@ const meu_estilo = `
 
 
 
-class Nome_do_componetw extends HTMLElement {
+class Nome_do_componete extends HTMLElement {
    // criamos um construtor 
    constructor() {
       // chamamos o super para acessar métodos e propriedades definidos na classe 
@@ -39,8 +39,23 @@ class Nome_do_componetw extends HTMLElement {
      // daremos a permissão de open para o DOM
      this.attachShadow({mode:"open"});
      // vamos escrever no root usando innerHTML 
-     this.shadowRoot.innerHTML
+     this.shadowRoot.innerHTML = `
+     Chamamos a variável estilo dessa forma 
+     
+     ${ this.estilo}
+
+     Aqui dentro podemos usar tegs como usariam 
+     No html
+     `
    }
 }
+
+
+
+//agora vamos criar a nossa teg custom 
+
+// customElements 
+// define 
+customElements.define('teg-custom',Nome_do_componete)
 
 ```
