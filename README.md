@@ -1,4 +1,4 @@
-# Blioteca de ícones 
+# biblioteca de ícones 
 <hr>
 <p>Uma blioteca, sempre em expansão usando icons svg 
 <br>Para garantir a melhor experiência do usuário 
