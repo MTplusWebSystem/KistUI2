@@ -17,10 +17,25 @@ A estrutura é feita Criando class
  conforme a baixo <br>
 
 ``` javascript 
+// criamos uma constante para guardar nossos estilos 
+const meu_estilo = `
+<style>
+
+</style>
+`
+
+
+
+
+
+
 class Nome_do_componetw extends HTMLElement {
    // criamos um construtor 
    constructor() {
-   
+      // chamamos o super para acessar métodos e propriedades definidos na classe 
+     super();
+     // Criamos uma variável para receber o estilo 
+     this.estilo = meu_estilo
    }
 }
 
