@@ -42,5 +42,5 @@ class ButtomComponent extends HTMLElement {
     
   }
 }
-customElements.define('nav-buttun', ButtonComponent);
+customElements.define('nav-button', ButtonComponent);
 
