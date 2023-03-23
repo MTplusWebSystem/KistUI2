@@ -1,0 +1,11 @@
+nav-bottom li{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    height: 7vh;
+    margin: 5px;
+
+  }
+  nav-bottom a{
+    cursor:none;
+  }
