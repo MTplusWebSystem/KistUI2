@@ -36,6 +36,10 @@ class Nome_do_componetw extends HTMLElement {
      super();
      // Criamos uma variável para receber o estilo 
      this.estilo = meu_estilo
+     // daremos a permissão de open para o DOM
+     this.attachShadow({mode:"open"});
+     // vamos escrever no root usando innerHTML 
+     this.shadowRoot.innerHTML
    }
 }
 
