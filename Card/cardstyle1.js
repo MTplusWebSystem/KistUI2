@@ -1,13 +1,6 @@
 
 
-
-
-
-
-
-
-
-const Pricing_style = `
+const Card_style = `
 <style>
   .container{
     height:60vh;
@@ -50,7 +43,7 @@ span{
 class CardComponent extends HTMLElement {
   constructor() {
     super();
-    this.estilo = Pricing_style
+    this.estilo = Card_style
     this.attachShadow({mode:"open"});
     this.shadowRoot.innerHTML =`
     ${this.estilo}
