@@ -1,0 +1,15 @@
+pricing-page  h1{
+    position: relative;
+    top: 5vh;
+    left: 4vw;
+    font-size: 90px;
+    color:#FF1659 ;
+  }
+  pricing-page h1::after{
+    content:"R$";
+    color: #555;
+    font-size: 38px;
+    position: relative;
+    top:-70px ;
+    left: -140px;
+  }
