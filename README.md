@@ -5,4 +5,14 @@
 web  components </h3>
 
 Crie seu site muito mais rápido graça a nossa biblioteca 
-Feita 100% em javascript integração simples e rápida 
+<br>Feita 100% em javascript integração simples e rápida 
+
+<h2>Disponível inicialmente</h2>
+<p>
+ Variações serão adicionadas 
+ ao decorrer do tempo <br> junto a comunidade 
+</p>
+
+> Card-style<br>
+> Pricing-page<br>
+> Nav-button<br>
