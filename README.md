@@ -54,8 +54,8 @@ class Nome_do_componete extends HTMLElement {
 
 //agora vamos criar a nossa teg custom 
 
-// customElements 
-// define 
+// Usando customElements 
+// E define 
 customElements.define('teg-custom',Nome_do_componete)
 
 ```
