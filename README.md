@@ -10,6 +10,6 @@ e seus layout únicos sem perda de qualidade
 <h3>Categorias a serem adicionadas inicialmente 
 </h3>
 
->House 🏠 <br>
->Person🙍‍♂️<br>
->system ⚙️
+>House    🏠 <br>
+>Person   🙍‍♂️<br>
+>system   ⚙️
