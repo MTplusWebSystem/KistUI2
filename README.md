@@ -30,6 +30,6 @@ git clone https://github.com/MTplusWebSystem/MW-Componentes
 ```
 <hr>
 
-_Segundo importando uma específica_
+_Segundo importando uma específica_<br>
 Será possível acessar pela página oficial <br>
 Do repositório em breve 
