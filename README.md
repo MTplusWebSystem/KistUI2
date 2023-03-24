@@ -41,8 +41,37 @@ Do repositório em breve
 
 Assim que clonado terá o acesso a pasta MW-Componentes
 
-**Se tiver usado sistema Linux**
+**Se tiver usado sistema Linux**<br>
+Usar como extensão 
+``` shell script 
+mkdir my_components 
+cd my_components
+```
+
+Usar na local
 ``` shell script 
 cd MW-Componentes
 ```
 **No Windows acesse pelo gerenciador de arquivos ou visual studio code**
+
+### Pasta MW-Componentes
+
+Na pasta MW-Componentes
+
+Basta criar o arquivo index.html <br>
+
+E importa os `Estilos css`<br>
+Importando para a pasta base:<br> dessa forma sua árvore 🌳  de diretórios tem seguir esse padrão o mesmo vale para o webcomponents<br><br>
+acessando como extensão 
+/my_components/ >> dentro da pasta vai criar seu index.html é importa
+Seu css
+``` css
+<link rel="stylesheet" href="./MW-Componentes/main.css">
+```
+E importa os `web components`<br>
+```html
+<script type="module" src="MW-Componentes/main.js">
+</script>
+```
+
+<hr>
