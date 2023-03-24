@@ -19,4 +19,12 @@ Crie seu site muito mais rápido graça a nossa biblioteca
 <br>
 <===============================>
 
+## Como usar o repertório 🛠
+#### Existem duas formas 
 
+_Primeiro importando todos os web components_
+Assim 
+
+```shell script 
+git clone https://github.com/MTplusWebSystem/MW-Componentes
+```
