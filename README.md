@@ -23,8 +23,12 @@ Crie seu site muito mais rápido graça a nossa biblioteca
 #### Existem duas formas 
 
 _Primeiro importando todos os web components_
-Assim 
+Assim :
 
 ```shell script 
 git clone https://github.com/MTplusWebSystem/MW-Componentes
 ```
+<hr>
+
+_Segundo importando uma específica_
+Assim:
