@@ -79,7 +79,7 @@ class PricingComponent extends HTMLElement {
     <slot id="name" name="category"></slot>
   </div> 
   <div class="preco">
-    <slot name="pricing-velue"></slot>
+    <slot name="value"></slot>
     <h4>por mês</h4>
   </div> 
   <div class="descricao">
