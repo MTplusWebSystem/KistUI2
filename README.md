@@ -60,18 +60,34 @@ Na pasta MW-Componentes
 
 Basta criar o arquivo index.html <br>
 
-E importa os `Estilos css`<br>
-Importando para a pasta base:<br> dessa forma sua árvore 🌳  de diretórios tem seguir esse padrão o mesmo vale para o webcomponents<br><br>
+E importa os `Estilos css` e os `web components`<br>
+Importando para a pasta my_components:<br> dessa forma sua árvore 🌳  de diretórios tem seguir esse padrão o mesmo vale para o webcomponents<br><br>
 acessando como extensão 
 /my_components/ >> dentro da pasta vai criar seu index.html é importa
-Seu css
+<br>
 ``` css
 <link rel="stylesheet" href="./MW-Componentes/main.css">
 ```
-E importa os `web components`<br>
 ```html
 <script type="module" src="MW-Componentes/main.js">
 </script>
 ```
 
+
 <hr>
+
+### No local 
+
+Importando direto da MW-Componentes:<br> dessa forma sua árvore 🌳  de diretórios tem seguir esse padrão o mesmo vale para o webcomponents<br><br>
+acessando local
+/my_components/MW-Componentes/ crie seu html dentro da MW-Componentes <br>
+
+E importa os `Estilos css` e os `web components`<br>
+
+``` css
+<link rel="stylesheet" href="./main.css">
+```
+```html
+<script type="module" src="./main.js">
+</script>
+```
