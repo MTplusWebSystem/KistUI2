@@ -54,9 +54,9 @@ cd MW-Componentes
 ```
 **No Windows acesse pelo gerenciador de arquivos ou visual studio code**
 
-### Pasta MW-Componentes
+### Usando como extensão 
 
-Na pasta MW-Componentes
+Criar uma pasta com um nome de sua preferência <br>
 
 Basta criar o arquivo index.html <br>
 
