@@ -31,8 +31,5 @@ git clone https://github.com/MTplusWebSystem/MW-Componentes
 <hr>
 
 _Segundo importando uma específica_
-Assim:
-``` shell script 
-git clone https://github.com/MTplusWebSystem/MW-Componentes/tree/main/Card
-```
-_dessa forma foi importado a classe Card e seus web components_
+Será possível acessar pela página oficial <br>
+Do repositório em breve 
