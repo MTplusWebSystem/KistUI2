@@ -27,7 +27,7 @@ const Button_style = `
 
 
 // Crie uma classe para o elemento
-class ButtomComponent extends HTMLElement {
+class ButtonComponent extends HTMLElement {
   constructor() {
     super();
     this.estilo = Button_style
