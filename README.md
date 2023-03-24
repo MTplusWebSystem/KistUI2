@@ -33,3 +33,16 @@ git clone https://github.com/MTplusWebSystem/MW-Componentes
 _Segundo importando uma específica_<br>
 Será possível acessar pela página oficial <br>
 Do repositório em breve 
+
+
+<hr>
+
+### Clonado o repertório 
+
+Assim que clonado terá o acesso a pasta MW-Componentes
+
+**Se tiver usado sistema Linux**
+``` shell script 
+cd MW-Componentes
+```
+**No Windows acesse pelo gerenciador de arquivos ou visual studio code**
