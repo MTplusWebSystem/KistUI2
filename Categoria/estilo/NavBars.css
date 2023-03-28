@@ -1,0 +1,11 @@
+NavBars1 li{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    height: 7vh;
+    margin: 5px;
+
+  }
+  NavBars1 a{
+    cursor:none;
+  }
