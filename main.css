@@ -1,2 +1,2 @@
-@import "NavButtuon/style/style1.css";
-@import "pricing-page/style/pricingPage1.css";
+@import "./category/style/PricingPage1.css";
+@import "./category/style/NavBars.css";
