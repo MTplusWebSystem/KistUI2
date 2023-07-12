@@ -1,4 +1,4 @@
- # MW-Componentes
+ # KistUI-Componentes
 
 
   <h3 text-align="center">Sua biblioteca de <br>
@@ -50,7 +50,7 @@ cd my_components
 
 Usar na local
 ``` shell script 
-cd MW-Componentes
+cd KistUI-Componentes
 ```
 **No Windows acesse pelo gerenciador de arquivos ou visual studio code**
 
